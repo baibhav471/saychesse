@@ -25,7 +25,7 @@ Usage of SayCheese for attacking targets without prior mutual consent is illegal
 $ git clone https://github.com/Hackertrackersj/saychesse <br>
 $ ls <br>
 $ cd saychesse <br>
-$ bash saychesse.sh <br>
+$ bash saycheese.sh <br>
 Now generate your link and send to victim
 
 
